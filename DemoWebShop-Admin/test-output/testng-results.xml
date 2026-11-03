@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[addAndRemoveProduct has been passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-10-11T15:49:08 IST" name="Default suite" finished-at="2026-10-11T15:49:39 IST" duration-ms="31053">
+    <groups>
+    </groups>
+    <test started-at="2026-10-11T15:49:08 IST" name="Default test" finished-at="2026-10-11T15:49:39 IST" duration-ms="31053">
+      <class name="com.tricentis.testscript.WishListModule">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.tricentis.testscript.WishListModule@36bc55de]" started-at="2026-10-11T15:49:08 IST" name="openBrowser" finished-at="2026-10-11T15:49:25 IST" duration-ms="16768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.tricentis.testscript.WishListModule@36bc55de]" started-at="2026-10-11T15:49:25 IST" name="login" finished-at="2026-10-11T15:49:28 IST" duration-ms="2707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addAndRemoveProduct()[pri:0, instance:com.tricentis.testscript.WishListModule@36bc55de]" started-at="2026-10-11T15:49:28 IST" name="addAndRemoveProduct" finished-at="2026-10-11T15:49:38 IST" duration-ms="9756" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[addAndRemoveProduct has been passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addAndRemoveProduct -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.tricentis.testscript.WishListModule@36bc55de]" started-at="2026-10-11T15:49:38 IST" name="logout" finished-at="2026-10-11T15:49:39 IST" duration-ms="1279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.tricentis.testscript.WishListModule@36bc55de]" started-at="2026-10-11T15:49:39 IST" name="closeBrowser" finished-at="2026-10-11T15:49:39 IST" duration-ms="454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.tricentis.testscript.WishListModule -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
